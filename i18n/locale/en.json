@@ -1,0 +1,20 @@
+{
+  "helloWorld": "Hello World",
+  "common": {
+    "ok": "OK",
+    "success": "success",
+    "send": "Send"
+  },
+  "auth": {
+    "offline": "Please check your Internet connection",
+    "signup": "Sign up",
+    "enterName": "Enter your name",
+    "enterEmail": "Enter your email",
+    "enterPass": "Enter your password",
+    "changePass": "Change password",
+    "haveAccountLogIn": "Already have an account? Log in!",
+    "enterNewPass": "Enter new password",
+    "confirmPass": "Confirm password",
+    "passwordSuccessfullyChanged": "Password successfully changed"
+  }
+}
